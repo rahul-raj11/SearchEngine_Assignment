@@ -2,12 +2,12 @@
 <testng-results skipped="3" failed="1" ignored="0" total="6" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Google Search Regression Suite" duration-ms="91741" started-at="2021-09-25T22:15:34Z" finished-at="2021-09-25T22:17:05Z">
+  <suite name="Google Search Regression Suite" duration-ms="91799" started-at="2021-09-25T23:10:16Z" finished-at="2021-09-25T23:11:48Z">
     <groups>
     </groups>
-    <test name="Google Page Test" duration-ms="91741" started-at="2021-09-25T22:15:34Z" finished-at="2021-09-25T22:17:05Z">
+    <test name="Google Page Test" duration-ms="91799" started-at="2021-09-25T23:10:16Z" finished-at="2021-09-25T23:11:48Z">
       <class name="com.qa.selenium.tests.GooglePageTest">
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="3559" started-at="2021-09-25T22:15:34Z" finished-at="2021-09-25T22:15:38Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="4537" started-at="2021-09-25T23:10:16Z" finished-at="2021-09-25T23:10:21Z">
           <params>
             <param index="0">
               <value>
@@ -18,7 +18,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="5173" started-at="2021-09-25T22:15:38Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:15:43Z">
+        <test-method status="PASS" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="4919" started-at="2021-09-25T23:10:21Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:10:26Z">
           <params>
             <param index="0">
               <value>
@@ -34,11 +34,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="733" started-at="2021-09-25T22:15:43Z" finished-at="2021-09-25T22:15:44Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="1516" started-at="2021-09-25T23:10:26Z" finished-at="2021-09-25T23:10:27Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2204" started-at="2021-09-25T22:15:44Z" finished-at="2021-09-25T22:15:46Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2159" started-at="2021-09-25T23:10:27Z" finished-at="2021-09-25T23:10:30Z">
           <params>
             <param index="0">
               <value>
@@ -49,7 +49,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="5306" started-at="2021-09-25T22:15:46Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:15:51Z">
+        <test-method status="PASS" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="5412" started-at="2021-09-25T23:10:30Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:10:35Z">
           <params>
             <param index="0">
               <value>
@@ -65,11 +65,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="717" started-at="2021-09-25T22:15:51Z" finished-at="2021-09-25T22:15:52Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="773" started-at="2021-09-25T23:10:35Z" finished-at="2021-09-25T23:10:36Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2086" started-at="2021-09-25T22:15:52Z" finished-at="2021-09-25T22:15:54Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2145" started-at="2021-09-25T23:10:36Z" finished-at="2021-09-25T23:10:38Z">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="15440" started-at="2021-09-25T22:15:54Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:16:09Z">
+        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="15472" started-at="2021-09-25T23:10:38Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:10:53Z">
           <params>
             <param index="0">
               <value>
@@ -101,8 +101,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 02c46ce236b5d9ec2b0ee45a756b3537
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56953}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1599f301fee8eecbd7f5fcbc39a2f816
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}]]>
             </message>
             <full-stacktrace>
@@ -112,8 +112,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53864}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 02c46ce236b5d9ec2b0ee45a756b3537
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56953}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 1599f301fee8eecbd7f5fcbc39a2f816
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -131,7 +131,7 @@ at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at com.qa.selenium.utils.ElementUtil.convertStringToWebElement(ElementUtil.java:85)
 at com.qa.selenium.pages.GooglePage.getFirstSearchedItem(GooglePage.java:48)
-at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:29)
+at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:23)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -158,11 +158,11 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="722" started-at="2021-09-25T22:16:10Z" finished-at="2021-09-25T22:16:10Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="726" started-at="2021-09-25T23:10:54Z" finished-at="2021-09-25T23:10:54Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2161" started-at="2021-09-25T22:16:10Z" finished-at="2021-09-25T22:16:13Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2136" started-at="2021-09-25T23:10:54Z" finished-at="2021-09-25T23:10:57Z">
           <params>
             <param index="0">
               <value>
@@ -173,7 +173,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="15139" started-at="2021-09-25T22:16:13Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:16:28Z">
+        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="14395" started-at="2021-09-25T23:10:57Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:11:11Z">
           <params>
             <param index="0">
               <value>
@@ -194,8 +194,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54156}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 4e5edb65b330e22f294daed5aceea7e3
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcc1892307236656711da62d22d91711
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}]]>
             </message>
             <full-stacktrace>
@@ -205,8 +205,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:54156}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 4e5edb65b330e22f294daed5aceea7e3
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:56632}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: fcc1892307236656711da62d22d91711
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -224,7 +224,7 @@ at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at com.qa.selenium.utils.ElementUtil.convertStringToWebElement(ElementUtil.java:85)
 at com.qa.selenium.pages.GooglePage.getFirstSearchedItem(GooglePage.java:48)
-at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:29)
+at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:23)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -251,11 +251,11 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="716" started-at="2021-09-25T22:16:28Z" finished-at="2021-09-25T22:16:29Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="740" started-at="2021-09-25T23:11:11Z" finished-at="2021-09-25T23:11:12Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2103" started-at="2021-09-25T22:16:29Z" finished-at="2021-09-25T22:16:31Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2073" started-at="2021-09-25T23:11:12Z" finished-at="2021-09-25T23:11:14Z">
           <params>
             <param index="0">
               <value>
@@ -266,7 +266,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="15053" started-at="2021-09-25T22:16:31Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:16:46Z">
+        <test-method status="SKIP" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="14742" started-at="2021-09-25T23:11:14Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:11:29Z">
           <params>
             <param index="0">
               <value>
@@ -287,8 +287,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 06f58be7fd90789059a6847840ed422f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59611}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20a1f5a2b306390c7c3d7980c33fb5e4
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}]]>
             </message>
             <full-stacktrace>
@@ -298,8 +298,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:61485}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: 06f58be7fd90789059a6847840ed422f
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:59611}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 20a1f5a2b306390c7c3d7980c33fb5e4
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -317,7 +317,7 @@ at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at com.qa.selenium.utils.ElementUtil.convertStringToWebElement(ElementUtil.java:85)
 at com.qa.selenium.pages.GooglePage.getFirstSearchedItem(GooglePage.java:48)
-at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:29)
+at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:23)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -344,11 +344,11 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="775" started-at="2021-09-25T22:16:46Z" finished-at="2021-09-25T22:16:47Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="747" started-at="2021-09-25T23:11:29Z" finished-at="2021-09-25T23:11:30Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
-        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2205" started-at="2021-09-25T22:16:47Z" finished-at="2021-09-25T22:16:49Z">
+        <test-method status="PASS" signature="setUp(java.lang.String)[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="setUp" is-config="true" duration-ms="2063" started-at="2021-09-25T23:11:30Z" finished-at="2021-09-25T23:11:32Z">
           <params>
             <param index="0">
               <value>
@@ -359,7 +359,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="FAIL" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="15273" started-at="2021-09-25T22:16:49Z" data-provider="getGoogleTestData" finished-at="2021-09-25T22:17:04Z">
+        <test-method status="FAIL" signature="searchItemOnGoogleAndVerify(java.lang.String, java.lang.String)[pri:1, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="searchItemOnGoogleAndVerify" duration-ms="14980" started-at="2021-09-25T23:11:32Z" data-provider="getGoogleTestData" finished-at="2021-09-25T23:11:47Z">
           <params>
             <param index="0">
               <value>
@@ -380,8 +380,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c155ae50128d4d5585724ca214f3e627
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fc5a171242c21cbe04e3d37d93465e5
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}]]>
             </message>
             <full-stacktrace>
@@ -391,8 +391,8 @@ For documentation on this error, please visit: https://www.seleniumhq.org/except
 Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
 System info: host: 'LP1-AP-51836313', ip: '172.28.80.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_231'
 Driver info: org.openqa.selenium.chrome.ChromeDriver
-Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:58189}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
-Session ID: c155ae50128d4d5585724ca214f3e627
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 94.0.4606.61, chrome: {chromedriverVersion: 94.0.4606.41 (333e85df3c9b6..., userDataDir: C:\Users\RAHUL-~1\AppData\L...}, goog:chromeOptions: {debuggerAddress: localhost:53892}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:virtualAuthenticators: true}
+Session ID: 3fc5a171242c21cbe04e3d37d93465e5
 *** Element info: {Using=xpath, value=//div[@id='search']//a//h3[contains(text(),'Amazon.in1')]}
 at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 at sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)
@@ -410,7 +410,7 @@ at org.openqa.selenium.By$ByXPath.findElement(By.java:353)
 at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
 at com.qa.selenium.utils.ElementUtil.convertStringToWebElement(ElementUtil.java:85)
 at com.qa.selenium.pages.GooglePage.getFirstSearchedItem(GooglePage.java:48)
-at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:29)
+at com.qa.selenium.tests.GooglePageTest.searchItemOnGoogleAndVerify(GooglePageTest.java:23)
 at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
 at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
 at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
@@ -437,7 +437,7 @@ at java.lang.Thread.run(Unknown Source)
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchItemOnGoogleAndVerify -->
-        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="747" started-at="2021-09-25T22:17:05Z" finished-at="2021-09-25T22:17:05Z">
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.qa.selenium.tests.GooglePageTest@53aad5d5]" name="tearDown" is-config="true" duration-ms="731" started-at="2021-09-25T23:11:47Z" finished-at="2021-09-25T23:11:48Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
