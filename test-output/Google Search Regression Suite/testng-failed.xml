@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="4" name="Failed suite [Google Search Regression Suite]" parallel="tests">
+  <listeners>
+    <listener class-name="com.qa.selenium.listeners.AnnotationTransformer"/>
+    <listener class-name="com.qa.selenium.listeners.ExtentReportListener"/>
+    <listener class-name="com.qa.selenium.listeners.TestAllureListener"/>
+  </listeners>
+  <test thread-count="5" verbose="4" name="Google Page Test(failed)" parallel="tests">
+    <parameter name="browser" value="chrome"/>
+    <classes>
+      <class name="com.qa.selenium.tests.GooglePageTest">
+        <methods>
+          <include name="searchItemOnGoogleAndVerify" invocation-numbers="2 2 2 2"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.qa.selenium.tests.GooglePageTest -->
+    </classes>
+  </test> <!-- Google Page Test(failed) -->
+</suite> <!-- Failed suite [Google Search Regression Suite] -->
