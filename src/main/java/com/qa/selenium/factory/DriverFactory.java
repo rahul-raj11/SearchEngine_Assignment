@@ -33,7 +33,7 @@ public class DriverFactory {
 	public static ThreadLocal<WebDriver> tlDriver = new ThreadLocal<WebDriver>();
 
 	/**
-	 * This method is used to initilize the driver
+	 * This method is used to initialize the driver
 	 * 
 	 * @param browserName
 	 * @return
@@ -43,7 +43,7 @@ public class DriverFactory {
 //			String browserName = System.getProperty("browser");
 //		}
 		String browserName = prop.getProperty("browser");
-		String browserVersion = prop.getProperty("browserversion");
+		//String browserVersion = prop.getProperty("browserversion");
 
 		highlight = prop.getProperty("highlight");
 
